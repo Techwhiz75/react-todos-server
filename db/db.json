@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "name": "Deploy json-server",
+      "time": "9:00 AM",
+      "id": 1
+    },
+    {
+      "name": "Learn to deploy react-app",
+      "time": "3:00 PM",
+      "id": 2
+    }
+  ]
+}
